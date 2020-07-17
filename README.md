@@ -1,0 +1,2 @@
+# Typescript
+Typescript Crash Course from Traversy Media, I used this course to learn the very basics of typescript, which is better than using Javascript and later on in the future when I would developing the react app for School Convers, Typescript is going to be helpful.
